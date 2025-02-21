@@ -1,0 +1,1 @@
+Enter a sentence: The sentence has 2 words.
